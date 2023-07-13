@@ -1,4 +1,4 @@
-# Detection-of-Synchronization-between-Stereo-Frames
+# Detection of Synchronization between Stereo Frames
 This repository contains an algorithm for detecting the synchronization state of stereo frames and analyzing spatial information. The algorithm consists of two primary parts: the timestamp algorithm and the spatial algorithm. By accurately determining the synchronization state of stereo frames, this algorithm enhances various computer vision applications such as object detection, picture matching, and 3D reconstruction. As shown in the image a) represents stereo synchronous image whereas b) represents stereo asynchronous image
 ![Intro_img (1)](https://github.com/fardinkhanz/Detection-of-Synchronization-between-Stereo-Frames/assets/89691395/a3a48ec1-0c76-4f05-94ee-5a45bf20062a)
 
